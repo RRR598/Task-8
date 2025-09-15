@@ -1,0 +1,6 @@
+Sales Dashboard Insights:
+
+1. Technology category contributes the highest share of total sales (~38%), followed by Furniture and Office Supplies.
+2. The South region leads in total sales, generating around 0.4M — the top-performing region.
+3. Sales show seasonal spikes in early 2015 and mid-2018, indicating periods of higher demand.
+4. Office Supplies and Furniture categories have balanced contributions (~30-32% each), providing a diversified sales base.
